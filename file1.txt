@@ -1,2 +1,3 @@
 This is my first file
-changes added from github
+changes added from GitHub
+check git fetch
